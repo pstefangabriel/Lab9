@@ -1,0 +1,3 @@
+﻿  medrepo.cpp
+C:\Users\stefan\source\repos\Lab9\Lab9\medrepo.cpp(247,23): warning C4101: 'e': unreferenced local variable
+  Lab9.vcxproj -> C:\Users\stefan\source\repos\Lab9\x64\Debug\Lab9.exe
